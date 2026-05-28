@@ -89,10 +89,6 @@ python manage.py runserver
 * 💳 Online payments
 * 🔔 Notifications system
 
-## 📂 GitHub Repository
-
-[Marketplace Repository](https://github.com/Parsa03/Marketplace?utm_source=chatgpt.com)
-
 ---
 
 ⭐ If you like the project, feel free to star the repository. A tiny yellow star powers developers better than coffee sometimes.
