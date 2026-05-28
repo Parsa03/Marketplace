@@ -37,19 +37,18 @@ Built with Django and designed to simulate a modern online marketplace experienc
 
 ### Homepage
 
-Displays newest items and product categories.
+![Homepage](media/item_images/IMG_20260509_200817%20(1).jpg)
 
 ### Product Page
 
-Shows product details, seller information, and chat options.
+![Product Page](media/item_images/IMG_20260509_200820.jpg)
 
 ## 🛠 Tech Stack
 
 * Python
 * Django
 * HTML
-* CSS
-* JavaScript
+* Tailwindcss
 * SQLite
 
 ## ⚙ Installation
