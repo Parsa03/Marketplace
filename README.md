@@ -1,5 +1,3 @@
-You can use this directly in your README.md 👇
-
 # 🛒 Marketplace
 
 A full-stack marketplace web application where users can register, upload products, and communicate with sellers through a built-in chat system.
