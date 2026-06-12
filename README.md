@@ -1,4 +1,4 @@
-# 🛒 Marketplace
+io# 🛒 Marketplace
 
 A full-stack marketplace web application where users can register, upload products, and communicate with sellers through a built-in chat system.
 
@@ -81,14 +81,6 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-## 🚀 Future Improvements
 
-* ❤️ Wishlist / Favorites
-* 🔍 Search and filtering
-* 📱 Better responsive design
-* 💳 Online payments
-* 🔔 Notifications system
-
----
 
 ⭐ If you like the project, feel free to star the repository. A tiny yellow star powers developers better than coffee sometimes.
